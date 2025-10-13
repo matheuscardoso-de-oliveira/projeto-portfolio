@@ -28,8 +28,7 @@ body{
   color: var(--texto);
 }
 header{
-  position: fixed;
-  right: 0;
+  position: sticky;
   top: 0;
   width: 100vw;
   z-index: 99;
